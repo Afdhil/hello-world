@@ -1,2 +1,5 @@
 # hello-world
-Just Another Repository
+ 
+ Hi humans!
+ 
+Fadhil disini! Saya suka belajar pemograman dan akan selalu belajar. terimakasih
